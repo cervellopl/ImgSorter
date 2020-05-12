@@ -1,0 +1,216 @@
+﻿{
+    "replaces": [
+        {
+            "src": "Lubbenau",
+            "dst": "Lübbenau"
+        },
+        {
+            "src": "Bosau",
+            "dst": "Bösau"
+        },
+        {
+            "src": "Jaenschwalde",
+            "dst": "Jänschwalde"
+        },
+        {
+            "src": "Stassfurt",
+            "dst": "Staßfurt"
+        },
+        {
+            "src": "Kirchmoser",
+            "dst": "Kirchmöser"
+        },
+        {
+            "src": "Weissandt-Golzau",
+            "dst": "Weißandt-Gölzau"
+        },
+        {
+            "src": "golzau",
+            "dst": "Weißandt-Gölzau"
+        },
+        {
+            "src": "Lobstadt",
+            "dst": "Lobstädt"
+        },
+        {
+            "src": "lobstadt",
+            "dst": "Lobstädt"
+        },
+        {
+            "src": "Boehlen",
+            "dst": "Böhlen"
+        },
+        {
+            "src": "Lutzkendorf",
+            "dst": "Lützkendorf"
+        },
+        {
+            "src": "Seelingstadt",
+            "dst": "Seelingstädt"
+        },
+
+        {
+            "src": "Seelingstaedt",
+            "dst": "Seelingstädt"
+        },
+        {
+            "src": "groditz",
+            "dst": "Gröditz"
+        },
+        {
+            "src": "Groebern",
+            "dst": "Gröbern"
+        },
+        {
+            "src": "Holzweissig",
+            "dst": "Holzweißig"
+        },
+        {
+            "src": "Muecheln",
+            "dst": "Mücheln"
+        },
+        {
+            "src": "Mucheln",
+            "dst": "Mücheln"
+        }
+
+    ],
+    "categories": {
+        "name": "de",
+        "places": [
+            "Vockerode",
+            "Bitterfeld",
+            "Wolfen",
+            "Borna",
+            "Deuben",
+            "Deutzen",
+            "Rositz",
+            "Weißandt-Gölzau",
+            "Volpke",
+            "Wahlitz",
+            "Wolfen",
+            "Schwarze Pumpe",
+            "Vetschau",
+            "Trattendorf",
+            "Finow",
+            "Uelzen",
+            "Offleben",
+            "Harbke",
+            "Trendelbusch",
+            "Treue",
+            "Thierbach",
+            "Espenhain",
+            "Teuchern",
+            "Stendal",
+            "StEgieden",
+            "Staßfurt",
+            "Sollstedt",
+            "Schwedt",
+            "Schwerin",
+            "Schwarzheide",
+            "Brieske",
+            "Spremberg",
+            "Lauchhammer",
+            "Boxberg",
+            "Schwarza",
+            "Schkopau",
+            "Sangerhausen",
+            "Salzgitter",
+            "Oker",
+            "Rüdersdorf",
+            "Rostock",
+            "Riesa",
+            "Remonta",
+            "Riesa",
+            "Premnitz",
+            "Pirna",
+            "Piesteritz",
+            "Duisburg",
+            "Nürnberg",
+            "Merkers",
+            "Alversdorf",
+            "Profen",
+            "Bösau",
+            "Blankenstein",
+            "Böhlen",
+            "Berlin",
+            "Grosszossen",
+            "Molbitz",
+            "Hettstedt",
+            "Helbra",
+            "Eisleben",
+            "Rossleben",
+            "Wettelrode",
+            "Werra",
+            "Menteroda",
+            "Plessa",
+            "Coswig",
+            "Zschornewitz",
+            "Zeithain",
+            "Lützkendorf",
+            "Ludwigsfelde",
+            "Magdeburg",
+            "Cottbus",
+            "Hirschfelde",
+            "Hagenwerder",
+            "Neustadt an der Donau",
+            "Lübbenau",
+            "Jänschwalde",
+            "Kirchmöser",
+            "Leipzig",
+            "Leuna",
+            "Halle",
+            "Mumsdorf",
+            "Regis-Breitingen",
+            "Lingen",
+            "Lobstädt",
+            "Thale",
+            "Karsdorf",
+            "Seelingstädt",
+            "Crossen",
+            "Paitzdorf",
+            "Drosen",
+            "Beerwalde",
+            "Ronneberg",
+            "Freienhufen",
+            "Meuro",
+            "Zwenkau",
+            "Kulkwitz",
+            "Lauta",
+            "Seftenberg",
+            "Lippendorf",
+            "Zielitz",
+            "Bleichrode",
+            "Ingolstadt",
+            "Kaiseroda",
+            "Jena",
+            "Erfurt",
+            "Gispersleben",
+            "Gotha",
+            "Weimar",
+            "Eisenach",
+            "Gera",
+            "Chemnitz",
+            "Zwickau",
+            "Dresden",
+            "Brandenburg",
+            "Guben",
+            "Gröditz",
+            "Zeitz",
+            "Staudinger",
+            "Nachterstedt",
+            "Bernburg",
+            "Rodleben",
+            "Dessau",
+            "Vetschau",
+            "Braunsbedra",
+            "Beuna",
+            "Roitzsch",
+            "Gröbern",
+            "Holzweißig",
+            "Kayna",
+            "Mücheln"
+        ]
+
+    }
+}
